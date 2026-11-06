@@ -26,10 +26,6 @@ We are at the dawn of artificial intelligence, and what gets learned and built t
 
 - **[Todos en la Web](https://todosenlaweb.com)**: free websites for small businesses with social impact, built by the community. Repos start with `tel-`.
 
-### Next meetup
-
-Tuesday, December 1, 2026 · Nexcrea, Condominios Metropolis, Tegucigalpa. Open to everyone, whether you code or not.
-
 ---
 
 <sub>Named after Saint Michael the Archangel, patron of Tegucigalpa: a tribute to the city, regardless of belief.</sub>
